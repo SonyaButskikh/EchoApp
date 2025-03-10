@@ -95,3 +95,4 @@ C:\Users\5posnyawk\Desktop\Sonya\EchoApp\obj\Debug\net9.0\refint\EchoApp.dll
 C:\Users\5posnyawk\Desktop\Sonya\EchoApp\obj\Debug\net9.0\EchoApp.pdb
 C:\Users\5posnyawk\Desktop\Sonya\EchoApp\obj\Debug\net9.0\EchoApp.genruntimeconfig.cache
 C:\Users\5posnyawk\Desktop\Sonya\EchoApp\obj\Debug\net9.0\ref\EchoApp.dll
+C:\Users\5posnyawk\Desktop\Sonya\EchoApp\obj\Debug\net9.0\EchoApp.sourcelink.json
